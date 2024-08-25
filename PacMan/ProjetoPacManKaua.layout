@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="Yes" Tabpos="1" TopLine="79">
+			<Cursor Line="92" Column="1"/>
+		</File>
+		<File Name="Mapa.cpp" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="12" Column="4"/>
+		</File>
+		<File Name="Mapa.h" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="24" Column="14"/>
+		</File>
+		<File Name="PACMAN.cpp" Top="No" Tabpos="4" TopLine="27">
+			<Cursor Line="44" Column="7"/>
+		</File>
+		<File Name="PACMAN.h" Top="No" Tabpos="5" TopLine="1">
+			<Cursor Line="17" Column="9"/>
+		</File>
+		<File Name="Ghost.cpp" Top="No" Tabpos="6" TopLine="1">
+			<Cursor Line="202" Column="6"/>
+		</File>
+		<File Name="Ghost.h" Top="No" Tabpos="7" TopLine="1">
+			<Cursor Line="23" Column="11"/>
+		</File>
+		<File Name="Visao.cpp" Top="No" Tabpos="8" TopLine="1">
+			<Cursor Line="19" Column="32"/>
+		</File>
+		<File Name="Visao.h" Top="No" Tabpos="9" TopLine="1">
+			<Cursor Line="11" Column="10"/>
+		</File>
+		<File Name="Globais.h" Top="No" Tabpos="10" TopLine="1">
+			<Cursor Line="2" Column="57"/>
+		</File>
+	</Files>
+</Layout>
