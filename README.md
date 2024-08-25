@@ -1,1 +1,1 @@
-# PacMan-3D
+# PacMan-3D with OpenGL
